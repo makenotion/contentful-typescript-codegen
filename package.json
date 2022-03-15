@@ -1,5 +1,5 @@
 {
-  "name": "contentful-typescript-codegen",
+  "name": "@notionhq/contentful-typescript-codegen",
   "description": "Generate TypeScript types from your Contentful environment.",
   "license": "MIT",
   "author": "Steven Petryk <steven.petryk@intercom.io>",
